@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="YogaCustomerApp.Views.ClassDetail"
+             BackgroundColor="LightSkyBlue">
+
+    <ScrollView Padding="20">
+        <StackLayout Spacing="25">
+            <Label Text="Class Detail"
+                   FontSize="28"
+                   FontAttributes="Bold"
+                   TextColor="Black"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Start"
+                   Margin="0,0,0,20" />
+            <Frame Padding="20" CornerRadius="20" BackgroundColor="WhiteSmoke" HasShadow="True" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+                <StackLayout Spacing="15">
+                    <Label Text="Class Type" FontSize="20" FontAttributes="Bold" TextColor="Black" />
+                    <Label Text="{Binding ClassType}" FontSize="18" TextColor="Black" />
+
+                    <Label Text="Teacher" FontSize="20" FontAttributes="Bold" TextColor="OrangeRed" />
+                    <Label Text="{Binding TeacherName}" FontSize="18" TextColor="Red" />
+
+                    <Label Text="Date" FontSize="20" FontAttributes="Bold" TextColor="Black" />
+                    <Label Text="{Binding Date}" FontSize="18" TextColor="Black" />
+
+                    <Label Text="Time" FontSize="20" FontAttributes="Bold" TextColor="Black" />
+                    <Label Text="{Binding Time}" FontSize="18" TextColor="Black" />
+
+                    <Label Text="Capacity" FontSize="20" FontAttributes="Bold" TextColor="Black" />
+                    <Label Text="{Binding Capacity}" FontSize="18" TextColor="Black" />
+
+                    <Label Text="Price" FontSize="20" FontAttributes="Bold" TextColor="Black" />
+                    <Label Text="{Binding Price}" FontSize="18" TextColor="Black" />
+
+                    <Label Text="Description" FontSize="20" FontAttributes="Bold" TextColor="Black" />
+                    <Label Text="{Binding Description}" FontSize="18" TextColor="Black" />
+                </StackLayout>
+            </Frame>
+            <Button Text="Back" 
+                        BackgroundColor="LightSkyBlue" 
+                        TextColor="Black" 
+                        CornerRadius="25" 
+                        Padding="15" 
+                        HeightRequest="50" 
+                        HorizontalOptions="FillAndExpand"
+                        VerticalOptions="Center"
+                        BorderColor="DarkBlue" 
+                        BorderWidth="2" 
+                        Grid.Column="1"
+                        Margin="20,0,0,0"
+                        Clicked="OnBackClicked"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

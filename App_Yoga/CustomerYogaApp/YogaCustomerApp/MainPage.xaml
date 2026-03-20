@@ -1,0 +1,56 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="YogaCustomerApp.MainPage"
+             BackgroundColor="LightSkyBlue">
+
+    <StackLayout
+                 VerticalOptions="CenterAndExpand" 
+                 HorizontalOptions="CenterAndExpand">
+
+        <Image Source="logo.png"
+               WidthRequest="400"
+               HeightRequest="400"
+               HorizontalOptions="Center"
+               Margin="0,0,0,16"/>
+
+        <Label Text="Hello Min98!!!" 
+               FontSize="64" 
+               FontAttributes="Bold"
+               TextColor="DarkBlue"
+               HorizontalOptions="Center" 
+               VerticalOptions="Center" 
+               Margin="0,24,0,24"
+               LineBreakMode="WordWrap"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+
+        <Label Text="Welcome to Mini Yoga!" 
+               FontSize="32" 
+               TextColor="DarkBlue"
+               HorizontalOptions="Center"
+               Margin="0,8,0,24"/>
+
+        <Button Text="View All Classes" 
+                FontSize="20" 
+                BackgroundColor="Orange"
+                TextColor="#FFFFFF"
+                CornerRadius="10"
+                Padding="10"
+                WidthRequest="250"
+                HorizontalOptions="Center"
+                Margin="0,10"
+                Clicked="OnViewAllClassesClicked"/>
+
+        <Button Text="My Classes" 
+                FontSize="20" 
+                BackgroundColor="OrangeRed"
+                TextColor="White"
+                CornerRadius="10"
+                Padding="10"
+                WidthRequest="250"
+                HorizontalOptions="Center"
+                Margin="0,20,0,0"
+                Clicked="OnMyClassesClicked"/>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,116 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = YogaCustomerApp
+build_property.RootNamespace = YogaCustomerApp
+build_property.ProjectDir = C:\Users\THAI NHI\Documents\Mobile_App\CustomerYogaApp\YogaCustomerApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\THAI NHI\Documents\Mobile_App\CustomerYogaApp\YogaCustomerApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/THAI NHI/Documents/Mobile_App/CustomerYogaApp/YogaCustomerApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = YogaCustomerApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THAI NHI/Documents/Mobile_App/CustomerYogaApp/YogaCustomerApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = YogaCustomerApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THAI NHI/Documents/Mobile_App/CustomerYogaApp/YogaCustomerApp/Views/CartPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = YogaCustomerApp.Views.CartPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CartPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CartPage.xaml
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THAI NHI/Documents/Mobile_App/CustomerYogaApp/YogaCustomerApp/Views/ClassDetail.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = YogaCustomerApp.Views.ClassDetail.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ClassDetail.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ClassDetail.xaml
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THAI NHI/Documents/Mobile_App/CustomerYogaApp/YogaCustomerApp/Views/MyClassesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = YogaCustomerApp.Views.MyClassesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MyClassesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MyClassesPage.xaml
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THAI NHI/Documents/Mobile_App/CustomerYogaApp/YogaCustomerApp/Views/ViewAllClass.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = YogaCustomerApp.Views.ViewAllClass.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ViewAllClass.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ViewAllClass.xaml
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THAI NHI/Documents/Mobile_App/CustomerYogaApp/YogaCustomerApp/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THAI NHI/Documents/Mobile_App/CustomerYogaApp/YogaCustomerApp/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THAI NHI/Documents/Mobile_App/CustomerYogaApp/YogaCustomerApp/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THAI NHI/Documents/Mobile_App/CustomerYogaApp/YogaCustomerApp/Components/Routes.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THAI NHI/Documents/Mobile_App/CustomerYogaApp/YogaCustomerApp/Components/_Imports.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/THAI NHI/Documents/Mobile_App/CustomerYogaApp/YogaCustomerApp/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-fi8nlronk4
+
+[C:/Users/THAI NHI/Documents/Mobile_App/CustomerYogaApp/YogaCustomerApp/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.GenKind = 
+build_metadata.AdditionalFiles.ManifestResourceName = 
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.RelativePath = 
+build_metadata.AdditionalFiles.CssScope = b-g6bend1vvs

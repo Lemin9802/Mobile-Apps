@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\THAI NHI\\Documents\\Mobile_App\\CustomerYogaApp\\YogaCustomerApp\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\YogaCustomerApp.styles.css",
+      "PackagePath": "staticwebassets\\YogaCustomerApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\THAI NHI\\Documents\\Mobile_App\\CustomerYogaApp\\YogaCustomerApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\THAI NHI\\Documents\\Mobile_App\\CustomerYogaApp\\YogaCustomerApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\THAI NHI\\Documents\\Mobile_App\\CustomerYogaApp\\YogaCustomerApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\THAI NHI\\Documents\\Mobile_App\\CustomerYogaApp\\YogaCustomerApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\THAI NHI\\Documents\\Mobile_App\\CustomerYogaApp\\YogaCustomerApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.YogaCustomerApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.YogaCustomerApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.YogaCustomerApp.props",
+      "PackagePath": "build\\YogaCustomerApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.YogaCustomerApp.props",
+      "PackagePath": "buildMultiTargeting\\YogaCustomerApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.YogaCustomerApp.props",
+      "PackagePath": "buildTransitive\\YogaCustomerApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
