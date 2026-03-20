@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="class_type_array">
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Advanced</item>
+    </string-array>
+    <string-array name="days_of_week_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="firebase_database_url" translatable="false">https://yoga-e55c5-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">1002494157537</string>
+    <string name="google_api_key" translatable="false">AIzaSyBR_wP0xsNXXL1kvYe5gvsv1jLxNIBxo7Q</string>
+    <string name="google_app_id" translatable="false">1:1002494157537:android:9d9285e72a0f5132d20da0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBR_wP0xsNXXL1kvYe5gvsv1jLxNIBxo7Q</string>
+    <string name="google_storage_bucket" translatable="false">yoga-e55c5.firebasestorage.app</string>
+    <string name="project_id" translatable="false">yoga-e55c5</string>
+    <style name="Theme.AdminYogaApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

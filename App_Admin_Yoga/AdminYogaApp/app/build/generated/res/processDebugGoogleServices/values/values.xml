@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://yoga-e55c5-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">1002494157537</string>
+    <string name="google_api_key" translatable="false">AIzaSyBR_wP0xsNXXL1kvYe5gvsv1jLxNIBxo7Q</string>
+    <string name="google_app_id" translatable="false">1:1002494157537:android:9d9285e72a0f5132d20da0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBR_wP0xsNXXL1kvYe5gvsv1jLxNIBxo7Q</string>
+    <string name="google_storage_bucket" translatable="false">yoga-e55c5.firebasestorage.app</string>
+    <string name="project_id" translatable="false">yoga-e55c5</string>
+</resources>
