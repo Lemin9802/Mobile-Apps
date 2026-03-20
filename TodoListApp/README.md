@@ -1,0 +1,7 @@
+# To-Do List Application Series
+
+This project demonstrates the evolution of a task management application, showcasing the progression from basic local data persistence to advanced querying and UI rendering techniques. Both iterations of the application rely heavily on local SQLite databases to ensure immediate data retrieval and offline availability. The architecture emphasizes the proper implementation of data adapters to bind underlying database cursors to interactive UI elements.
+
+The Basic Version focuses on foundational CRUD operations within the Android ecosystem. It implements a straightforward SQLite helper class to manage the database schema and execute simple SQL queries for adding, viewing, updating, and deleting tasks. The user interface utilizes standard ListView or RecyclerView components to render the stored tasks efficiently, providing a clean and direct user experience for daily task tracking.
+
+The Expanded Version builds significantly upon the foundational architecture by introducing complex relational data handling and advanced feature sets. This iteration implements comprehensive search and filtering capabilities, allowing users to query tasks based on specific parameters such as categorical tags, priority levels, or due dates. The database schema is expanded to handle these relationships, and the UI incorporates more sophisticated interactive elements, such as dynamic sorting options and enhanced visual indicators for task urgency, demonstrating a deeper command of native Android development practices.
